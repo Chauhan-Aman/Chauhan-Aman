@@ -1,13 +1,13 @@
 ![logo](https://github.com/Chauhan-Aman/Chauhan-Aman/blob/main/Github-cover.png)
 <h1 align="center">Explore My GitHub Universe...</h1>
 <h1>About Me</h1>
-  <p>Hello! I'm Aman Chauhan, a seasoned web developer with a specialization in the MERN stack and Next.js for web applications. My journey in software development has been marked by a deep-rooted passion for building robust and user-friendly web experiences.</p>
+  <p>Hello! I'm Aman Chauhan, a seasoned web developer with a specialization in the MERN stack and Next.js for web applications and React-Native and expo for mobile applications. My journey in development has been marked by a deep-rooted passion for building robust and user-friendly web experiences.</p>
 
   <h2>Expertise</h2>
   <h3>MERN Stack Specialist</h3>
   <p>With proficiency in MongoDB, Express.js, React.js, and Node.js (MERN), I excel in creating dynamic and scalable web applications. Leveraging the power of these technologies, I architect solutions that cater to diverse business needs while maintaining high standards of performance and reliability.</p>
 
-  <h3>Next.js App Developer</h3>
+  <h3>Next.js Web Developer</h3>
   <p>As a Next.js enthusiast, I'm well-versed in utilizing this powerful React framework for building server-rendered and statically-generated web applications. With Next.js, I ensure optimal SEO performance, faster page loading times, and seamless client-side routing for enhanced user experiences.</p>
 
   <h3>ReactNative - Expo Enthusiast</h3>
