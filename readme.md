@@ -39,7 +39,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [PortFolio - Aman Chauhan](https://chauhan-aman.netlify.app/work)
+- 👨‍💻 All of my projects are available at [Portfolio - Aman Chauhan](https://chauhan-aman.netlify.app/work)
 
 - 📫 How to reach me **caman860@gmail.com**
 
@@ -57,7 +57,7 @@
 ![HTML5](https://img.shields.io/badge/-Html5-05122A?style=flat-square&logo=Html5&color=353535)
 ![Node.js](https://img.shields.io/badge/-Nodejs-05122A?style=flat-square&logo=Node.js&color=353535)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express&color=353535)
-![React Native](https://img.shields.io/badge/-Reactnative-05122A?style=flat-square&logo=Reactnative&color=353535)
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat-square&logo=react&logoColor=white&color=353535)
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat-square&logo=Tensorflow&color=353535)
 ![PyTorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat-square&logo=Pytorch&color=353535)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535)
