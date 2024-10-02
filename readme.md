@@ -1,11 +1,11 @@
 ![logo](https://github.com/Chauhan-Aman/Chauhan-Aman/blob/main/GitHub-AmanChauhan.png)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChauhan-Aman%2FChauhan-Aman&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com
 )
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://x.com/ChauhanAman03)](https://x.com/ChauhanAman03)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=x&logoColor=white&link=https://x.com/ChauhanAman03)](https://x.com/ChauhanAman03)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chauhan-779955256/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_.ig_aman/)](https://www.instagram.com/_.ig_aman)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:caman860@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://chauhan-aman.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://chauhan-aman.netlify.app/)](https://chauhan-aman.netlify.app/)
 [![Github](https://img.shields.io/github/followers/Chauhan-Aman?label=Follow&style=social)](https://github.com/Chauhan-Aman)
 <h1 align="center">Explore My GitHub Universe...</h1>
 <h1>About Me</h1>
