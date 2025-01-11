@@ -72,6 +72,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chauhan-Aman&show_icons=true&locale=en&layout=compact" alt="Chauhan-Aman" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Chauhan-Aman&" alt="Chauhan-Aman" />
+<!--   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chauhan-Aman&show_icons=true&locale=en&layout=compact" alt="Chauhan-Aman" /> -->
+<!--   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Chauhan-Aman&" alt="Chauhan-Aman" /> -->
 </div>
