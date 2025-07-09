@@ -1,9 +1,7 @@
 ![logo](https://github.com/Chauhan-Aman/Chauhan-Aman/blob/main/GitHub-AmanChauhan.png)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChauhan-Aman%2FChauhan-Aman&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com
-)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=x&logoColor=white&link=https://x.com/ChauhanAman03)](https://x.com/ChauhanAman03)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chauhan-779955256/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_.ig_aman/)](https://www.instagram.com/_.ig_aman)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_.ig_aman/)](https://www.instagram.com/aman.chauhnn)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:caman860@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://chauhan-aman.netlify.app/)](https://chauhan-aman.netlify.app/)
 [![Github](https://img.shields.io/github/followers/Chauhan-Aman?label=Follow&style=social)](https://github.com/Chauhan-Aman)
@@ -70,6 +68,16 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase&color=353535)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=Postman&color=353535)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=Keras&color=353535)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=numpy&color=353535)
+![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat-square&logo=python&color=353535)
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=Jupyter&color=353535)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux&color=353535)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat-square&logo=Supabase&color=353535)
+![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat-square&logo=Stripe&color=353535)
+![Plaid](https://img.shields.io/badge/-Plaid-05122A?style=flat-square&logo=Plaid&color=353535)
+![RevenueCat](https://img.shields.io/badge/-RevenueCat-05122A?style=flat-square&logo=RevenueCat&color=353535)
+
 
 <div>
 <!--   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chauhan-Aman&show_icons=true&locale=en&layout=compact" alt="Chauhan-Aman" /> -->
