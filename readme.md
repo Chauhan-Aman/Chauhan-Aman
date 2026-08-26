@@ -14,11 +14,7 @@
 
 ---
 
-## Aman Chauhan
-
-**Software Developer**
-
-Driven Software Developer with hands-on experience in building scalable microservices, real-time data pipelines, and AI-integrated systems. I specialize in taking complex problems and designing robust, high-throughput architectures to solve them. Strong foundation in full-stack development (MERN, Next.js), machine learning, and computer vision.
+Driven Software Developer with hands-on experience in building scalable microservices, real-time data pipelines, and AI-integrated systems. I specialize in taking complex problems and designing robust, high-throughput architectures to solve them. Strong foundation in full-stack development (**MERN**, **Next.js**), machine learning, and computer vision.
 
 - **Currently learning:** LLM architectures, Agentic AI, and System Design at scale
 - **Portfolio:** [chauhan-aman.netlify.app](https://chauhan-aman.netlify.app/)
@@ -27,13 +23,13 @@ Driven Software Developer with hands-on experience in building scalable microser
 ---
 
 ### // Backend & Systems Architecture
-I thrive on designing distributed systems that can handle massive scale. My expertise lies in breaking down monolithic structures into efficient, decoupled microservices. From implementing high-throughput message queues (Kafka) and in-memory caching (Redis), to engineering resilient APIs with Node.js, FastAPI, and .NET, I focus heavily on optimizing data pipelines for zero-latency transactions and maximum reliability.
+I thrive on designing distributed systems that can handle massive scale. My expertise lies in breaking down monolithic structures into efficient, decoupled microservices. From implementing high-throughput message queues (**Kafka**) and in-memory caching (**Redis**), to engineering resilient APIs with **Node.js**, **FastAPI**, and **.NET**, I focus heavily on optimizing data pipelines for zero-latency transactions and maximum reliability.
 
 ### // AI, ML & Computer Vision
-Beyond traditional software engineering, I am deeply invested in the intersection of applications and artificial intelligence. I build end-to-end Machine Learning pipelines—from training custom Convolutional Neural Networks (CNNs) in PyTorch and TensorFlow, to optimizing model inference using ONNX and TFLite for edge devices. Recently, my focus has expanded into building sophisticated Agentic AI and Retrieval-Augmented Generation (RAG) systems using LangChain and LangGraph to create applications that can reason over complex, unstructured data.
+Beyond traditional software engineering, I am deeply invested in the intersection of applications and artificial intelligence. I build end-to-end Machine Learning pipelines—from training custom Convolutional Neural Networks (CNNs) in **PyTorch** and **TensorFlow**, to optimizing model inference using **ONNX** and **TFLite** for edge devices. Recently, my focus has expanded into building sophisticated **Agentic AI** and Retrieval-Augmented Generation (**RAG**) systems using **LangChain** and **LangGraph** to create applications that can reason over complex, unstructured data.
 
 ### // Full-Stack & Mobile Engineering
-I believe great backend architecture deserves an equally powerful user interface. I craft highly interactive, SEO-optimized web platforms using React and Next.js, and build seamless cross-platform mobile experiences with React Native. My full-stack approach ensures that everything from the database schema (PostgreSQL, MongoDB) to the final frontend component is engineered for performance, security, and exceptional user experience.
+I believe great backend architecture deserves an equally powerful user interface. I craft highly interactive, SEO-optimized web platforms using **React** and **Next.js**, and build seamless cross-platform mobile experiences with **React Native**. My full-stack approach ensures that everything from the database schema (**PostgreSQL**, **MongoDB**) to the final frontend component is engineered for performance, security, and exceptional user experience.
 
 ### // What I'm Currently Exploring
 - **Agentic AI & LLMs:** Exploring multi-agent orchestration and advanced LLM reasoning architectures.
