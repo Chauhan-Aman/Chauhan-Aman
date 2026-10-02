@@ -12,28 +12,37 @@
 
 </div>
 
----
+## Hey, I'm Aman
 
-Driven Software Developer with hands-on experience in building scalable microservices, real-time data pipelines, and AI-integrated systems. I specialize in taking complex problems and designing robust, high-throughput architectures to solve them. Strong foundation in full-stack development (**MERN**, **Next.js**), machine learning, and computer vision.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+AI+Systems+%7C+Full-Stack+Builder;Designing+systems+that+scale+and+products+people+enjoy;Turning+complex+problems+into+simple+experiences" alt="Typing introduction" />
+  </a>
+</div>
 
-- **Currently learning:** LLM architectures, Agentic AI, and System Design at scale
-- **Portfolio:** [chauhan-aman.netlify.app](https://chauhan-aman.netlify.app/)
-- **Reach me:** caman860@gmail.com
+I build thoughtful software at the intersection of **AI**, **distributed systems**, and **product engineering**. My focus is simple: make complex technology useful, reliable, and easy to experience.
 
----
+<div align="center">
 
-### // Backend & Systems Architecture
-I thrive on designing distributed systems that can handle massive scale. My expertise lies in breaking down monolithic structures into efficient, decoupled microservices. From implementing high-throughput message queues (**Kafka**) and in-memory caching (**Redis**), to engineering resilient APIs with **Node.js**, **FastAPI**, and **.NET**, I focus heavily on optimizing data pipelines for zero-latency transactions and maximum reliability.
+`AI Engineering` &nbsp; `Backend Architecture` &nbsp; `Full-Stack Development`
 
-### // AI, ML & Computer Vision
-Beyond traditional software engineering, I am deeply invested in the intersection of applications and artificial intelligence. I build end-to-end Machine Learning pipelines—from training custom Convolutional Neural Networks (CNNs) in **PyTorch** and **TensorFlow**, to optimizing model inference using **ONNX** and **TFLite** for edge devices. Recently, my focus has expanded into building sophisticated **Agentic AI** and Retrieval-Augmented Generation (**RAG**) systems using **LangChain** and **LangGraph** to create applications that can reason over complex, unstructured data.
+</div>
 
-### // Full-Stack & Mobile Engineering
-I believe great backend architecture deserves an equally powerful user interface. I craft highly interactive, SEO-optimized web platforms using **React** and **Next.js**, and build seamless cross-platform mobile experiences with **React Native**. My full-stack approach ensures that everything from the database schema (**PostgreSQL**, **MongoDB**) to the final frontend component is engineered for performance, security, and exceptional user experience.
+> I like building software that makes complicated things feel simple.
 
-### // What I'm Currently Exploring
-- **Agentic AI & LLMs:** Exploring multi-agent orchestration and advanced LLM reasoning architectures.
-- **System Design at Scale:** Deepening my knowledge of distributed consensus, sharding strategies, and fault-tolerant cloud infrastructures.
+Lately, that has meant:
+
+- giving applications better memory, better retrieval, and better ways to reason
+- turning code and algorithms into experiences you can actually see and understand
+- connecting polished interfaces to reliable APIs, real-time data, and useful automation
+- making ambitious projects easier to run, explore, and build on
+
+The common thread is curiosity: follow a difficult problem far enough, then shape the solution into something people can use.
+
+### Say hello
+
+- Portfolio: [chauhan-aman.netlify.app](https://chauhan-aman.netlify.app/)
+- Email: [caman860@gmail.com](mailto:caman860@gmail.com)
 
 ---
 
